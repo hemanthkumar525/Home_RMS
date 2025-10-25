@@ -23,7 +23,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <a href="#" onClick={(e) => handleNavClick(e, 'home')} className="flex items-center space-x-2 text-primary">
-            <img src="/Home_RMS/images/RMS-Logo.png" alt="Logo" className="w-40 h-8"/>
+            <img src="https://aytechnologies123-my.sharepoint.com/:i:/g/personal/pragnika_ay-technologies_com/EaOjj2DCm95LgN3wxVLZd_wB2USMONea8qtcp4qH8jFW-Q?e=N6wM1p" alt="Logo" className="w-40 h-8"/>
           </a>
           
           <nav className="hidden md:flex items-center space-x-8">
