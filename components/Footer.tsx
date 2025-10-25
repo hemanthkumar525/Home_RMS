@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
 
     {/* Bottom Section */}
     <div className="mt-6 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-400">
-      <p>&copy; {new Date().getFullYear()} <span className="text-[#D2B47C] font-semibold">RentEase</span>. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} <span className="text-[#D2B47C] font-semibold">RMS</span>. All rights reserved.</p>
       <div className="flex space-x-6 mt-4 sm:mt-0">
         {socialLinks.map((social) => (
           <a
